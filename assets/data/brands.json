@@ -1,17 +1,129 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "wolff finnhaus",
+        "name": "Wolff Finnhaus",
+        "slug": "wolff-finnhaus",
+        "productCategory": "Wolff Finnhaus",
+        "localThumb": "/assets/images/hersteller/wolff-finnhaus.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "gaspo",
+        "name": "GASPO",
+        "slug": "gaspo",
+        "productCategory": "GASPO",
+        "localThumb": "/assets/images/hersteller/gaspo.webp"
+    },
+    {
+        "key": "weka",
+        "name": "Weka",
+        "slug": "weka",
+        "productCategory": "Weka",
+        "localThumb": "/assets/images/hersteller/weka.webp"
+    },
+    {
+        "key": "hide",
+        "name": "Hide",
+        "slug": "hide",
+        "productCategory": "Hide",
+        "localThumb": "/assets/images/hersteller/hide.webp"
+    },
+    {
+        "key": "duramax",
+        "name": "Duramax",
+        "slug": "duramax",
+        "productCategory": "Duramax",
+        "localThumb": "/assets/images/hersteller/duramax.webp"
+    },
+    {
+        "key": "lifetime",
+        "name": "Lifetime",
+        "slug": "lifetime",
+        "productCategory": "Lifetime",
+        "localThumb": "/assets/images/hersteller/lifetime.webp"
+    },
+    {
+        "key": "keter",
+        "name": "Keter",
+        "slug": "keter",
+        "productCategory": "Keter",
+        "localThumb": "/assets/images/hersteller/keter.webp"
+    },
+    {
+        "key": "shelter logic",
+        "name": "Shelter Logic",
+        "slug": "shelter-logic",
+        "productCategory": "Shelter Logic",
+        "localThumb": "/assets/images/hersteller/shelter-logic.webp"
+    },
+    {
+        "key": "biohort",
+        "name": "Biohort",
+        "slug": "biohort",
+        "productCategory": "Biohort",
+        "localThumb": "/assets/images/hersteller/biohort.webp"
+    },
+    {
+        "key": "westmann",
+        "name": "Westmann",
+        "slug": "westmann",
+        "productCategory": "Westmann",
+        "localThumb": "/assets/images/hersteller/westmann.webp"
+    },
+    {
+        "key": "andrewex",
+        "name": "Andrewex",
+        "slug": "andrewex",
+        "productCategory": "Andrewex",
+        "localThumb": "/assets/images/hersteller/andrewex.webp"
+    },
+    {
+        "key": "skan holz",
+        "name": "Skan Holz",
+        "slug": "skan-holz",
+        "productCategory": "Skan Holz",
+        "localThumb": "/assets/images/hersteller/skan-holz.webp"
+    },
+    {
+        "key": "traumgarten",
+        "name": "TraumGarten",
+        "slug": "traumgarten",
+        "productCategory": "TraumGarten",
+        "localThumb": "/assets/images/hersteller/traumgarten.webp"
+    },
+    {
+        "key": "dobar",
+        "name": "Dobar",
+        "slug": "dobar",
+        "productCategory": "Dobar",
+        "localThumb": "/assets/images/hersteller/dobar.webp"
+    },
+    {
+        "key": "garden pleasure",
+        "name": "Garden Pleasure",
+        "slug": "garden-pleasure",
+        "productCategory": "Garden Pleasure",
+        "localThumb": "/assets/images/hersteller/garden-pleasure.webp"
+    },
+    {
+        "key": "noor",
+        "name": "Noor",
+        "slug": "noor",
+        "productCategory": "Noor",
+        "localThumb": "/assets/images/hersteller/noor.webp"
+    },
+    {
+        "key": "wolfcraft",
+        "name": "Wolfcraft",
+        "slug": "wolfcraft",
+        "productCategory": "Wolfcraft",
+        "localThumb": "/assets/images/hersteller/wolfcraft.webp"
+    },
+    {
+        "key": "spacemaker",
+        "name": "Spacemaker",
+        "slug": "spacemaker",
+        "productCategory": "Spacemaker",
+        "localThumb": "/assets/images/hersteller/spacemaker.webp"
     },
     {
         "key": "sonstige",
@@ -21,66 +133,45 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "gardena",
+        "name": "Gardena",
+        "slug": "gardena",
+        "productCategory": "Gardena",
+        "localThumb": "/assets/images/hersteller/gardena.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "promadino",
+        "name": "Promadino",
+        "slug": "promadino",
+        "productCategory": "Promadino",
+        "localThumb": "/assets/images/hersteller/promadino.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "tetzner und jentzsch",
+        "name": "Tetzner und Jentzsch",
+        "slug": "tetzner-und-jentzsch",
+        "productCategory": "Tetzner und Jentzsch",
+        "localThumb": "/assets/images/hersteller/tetzner-und-jentzsch.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "floraworld",
+        "name": "Floraworld",
+        "slug": "floraworld",
+        "productCategory": "Floraworld",
+        "localThumb": "/assets/images/hersteller/floraworld.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "bwo",
+        "name": "BWO",
+        "slug": "bwo",
+        "productCategory": "BWO",
+        "localThumb": "/assets/images/hersteller/bwo.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
-    },
-    {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
-    },
-    {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
-    },
-    {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "trimetals",
+        "name": "Trimetals",
+        "slug": "trimetals",
+        "productCategory": "Trimetals",
+        "localThumb": "/assets/images/hersteller/trimetals.webp"
     }
 ]

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/wolff-finnhaus", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/wolff-finnhaus-holz-geraeteschrank-20-c-natur-260-cm-x-103-cm-wolff-finnhaus-2191773-1.jpg":"\u002Fassets\u002Fimages\u002Fwolff-finnhaus-holz-geraeteschrank-20-c-natur-260-cm-x-103-cm-wolff-finnhaus-2191773-1.webp"}}],fetch:{},mutations:void 0});

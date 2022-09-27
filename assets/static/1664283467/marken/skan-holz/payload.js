@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/skan-holz", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/skan-holz-holzunterstand-lars-1-240-x-102-cm-natur-skan-holz-9627704-1.jpg":"\u002Fassets\u002Fimages\u002Fskan-holz-holzunterstand-lars-1-240-x-102-cm-natur-skan-holz-9627704-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/tetzner-und-jentzsch", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/t-j-kaminholzregal-anne-178-cm-x-179-cm-tetzner-und-jentzsch-3395597-1.jpg":"\u002Fassets\u002Fimages\u002Ft-j-kaminholzregal-anne-178-cm-x-179-cm-tetzner-und-jentzsch-3395597-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/noor", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/garofalo-muelltonnenbox-tuscany-evo-200-212x88x133cm-noor-7741044-1.jpg":"\u002Fassets\u002Fimages\u002Fgarofalo-muelltonnenbox-tuscany-evo-200-212x88x133cm-noor-7741044-1.webp"}}],fetch:{},mutations:void 0});

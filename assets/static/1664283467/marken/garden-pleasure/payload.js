@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/garden-pleasure", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/auflagenbox-plano-mit-folieninnentasche-garden-pleasure-2887560-1.jpg":"\u002Fassets\u002Fimages\u002Fauflagenbox-plano-mit-folieninnentasche-garden-pleasure-2887560-1.webp"}}],fetch:{},mutations:void 0});

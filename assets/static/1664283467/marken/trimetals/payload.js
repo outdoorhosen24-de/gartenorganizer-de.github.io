@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/trimetals", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/trimetals-gartenschrank-guardian-d63-inkl-boden-b-x-t-172-cm-x-90-cm-trimetals-2609469-1.jpg":"\u002Fassets\u002Fimages\u002Ftrimetals-gartenschrank-guardian-d63-inkl-boden-b-x-t-172-cm-x-90-cm-trimetals-2609469-1.webp"}}],fetch:{},mutations:void 0});

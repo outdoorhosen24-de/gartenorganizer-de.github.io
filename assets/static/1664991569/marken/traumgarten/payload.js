@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/traumgarten", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/muelltonnenbox-system-binto-hpl-grau-3er-box-mit-pflanzschale-traumgarten-2372753-1.jpg":"\u002Fassets\u002Fimages\u002Fmuelltonnenbox-system-binto-hpl-grau-3er-box-mit-pflanzschale-traumgarten-2372753-1.webp"}}],fetch:{},mutations:void 0});

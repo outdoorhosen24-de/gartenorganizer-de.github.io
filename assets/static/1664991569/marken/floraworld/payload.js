@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/floraworld", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/floraworld-aufbewahrungsbox-400-liter-anthrazit-floraworld-5897582-1.jpg":"\u002Fassets\u002Fimages\u002Ffloraworld-aufbewahrungsbox-400-liter-anthrazit-floraworld-5897582-1.webp"}}],fetch:{},mutations:void 0});

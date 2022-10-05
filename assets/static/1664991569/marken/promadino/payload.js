@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/promadino", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/promadino-muelltonnenbox-vario-iii-kiefernholz-122-cm-x-148-cm-x-92-honigfarben-promadino-2430932-1.jpg":"\u002Fassets\u002Fimages\u002Fpromadino-muelltonnenbox-vario-iii-kiefernholz-122-cm-x-148-cm-x-92-honigfarben-promadino-2430932-1.webp"}}],fetch:{},mutations:void 0});

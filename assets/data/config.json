@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "gartenorganizer.de",
+    "hostname": "https://www.gartenorganizer.de/",
+    "email": "gartenorganizer.desurrealnetworks.io",
+    "organization": "gartenorganizer.de",
+    "logoText": "Gartenorganizer.de",
+    "title": "Ordnung im Garten",
+    "subline": "Der Online Shop f\u00fcr Ordnung im Garten",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "3202694",
+        "4477220",
+        "1194562",
+        "3878048",
+        "8037756",
+        "5685680"
+    ],
+    "winnerProducts": [
+        "5120829",
+        "6322317",
+        "9658543"
+    ],
+    "featuredCategories": [
+        "Auflagenboxen",
+        "Weitere Ordnungssysteme f\u00fcr den Garten",
+        "Kaminholzregale",
+        "Universalboxen",
+        "Gartenschr\u00e4nke",
+        "Universalboxen"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Ordnung im Garten",
-        "featureText": "Your featured text goes here",
+        "featureText": "Ordnung im Garten ist ein kleiner, aber feiner Laden, der sich auf die Bed\u00fcrfnisse von Gartenbesitzern konzentriert. Hier finden Sie alles, was Sie f\u00fcr einen gepflegten und ordentlichen Garten ben\u00f6tigen. Vom Rasenm\u00e4her \u00fcber die Gartenschere bis hin zur Gartenpumpe - Ordnung im Garten hat alles, was Sie brauchen.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Ordnung im Garten: Tipps f\u00fcr einen sch\u00f6nen Garten",
+            "metaDescription": "Ordnung im Garten - alles f\u00fcr die perfekte Gartenordnung. Pflanzen, Gartenger\u00e4te und mehr f\u00fcr einen gepflegten Garten.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Ordnung im Garten: Tipps und Tricks",
+                    "text": "Ordnung im Garten\n\nEin sch\u00f6ner Garten ist nicht nur ein Ort der Erholung, sondern auch ein Ort der Ordnung. Damit der Garten ordentlich und aufger\u00e4umt aussieht, muss man einige Regeln beachten.\n\nZun\u00e4chst einmal sollte man darauf achten, dass alle Pflanzen ihren Platz haben. Jede Pflanze braucht einen bestimmten Abstand zu anderen Pflanzen, damit sie sich gut entwickeln kann. Au\u00dferdem sollte man darauf achten, dass die Pflanzen nicht zu dicht aneinander stehen, damit sie gen\u00fcgend Licht und Luft bekommen.\n\nAuch die B\u00e4ume und Str\u00e4ucher sollten regelm\u00e4\u00dfig geschnitten werden, damit sie nicht zu viel Platz einnehmen und die anderen Pflanzen nicht verdr\u00e4ngen.\n\nWenn man einen Garten hat, sollte man auch darauf achten, dass die Wege sauber und frei von Unkraut sind. Damit der Garten ordentlich aussieht, muss man also regelm\u00e4\u00dfig Unkraut j\u00e4ten und die Wege fegen.\n\nEin weiterer wichtiger Aspekt der Ordnung im Garten ist die M\u00fcllentsorgung. Damit der Garten sauber bleibt, sollte man den M\u00fcll regelm\u00e4\u00dfig in den M\u00fclleimer werfen und nicht einfach irgendwo hinwerfen.\n\nWenn man sich an diese Regeln h\u00e4lt, wird der Garten ordentlich und aufger\u00e4umt aussehen und man kann sich dort wirklich erholen."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Ordnung im Garten Shop",
+            "metaDescription": "Ordnung im Garten - Dieser Shop hilft Ihnen, Ihren Garten aufzur\u00e4umen und zu organisieren. Wir bieten Ihnen alles, was Sie brauchen, um Ihren Garten in Ordnung zu bringen.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Ordnung im Garten: Die besten Hersteller",
+            "metaDescription": "Ordnung im Garten - manufacturer. Wir bieten Ihnen die besten Produkte f\u00fcr Ordnung im Garten. Schnelle Lieferung und top Qualit\u00e4t!",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT: Ordnung im Garten",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Ordnung im Garten leicht gemacht! $KATEGORIE f\u00fcr die ganze Familie. Jetzt auf Amazon.de bestellen.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Ordnung im Garten",
+        "defaultMetaDescription": "$KATEGORIE: Ordnung im Garten - Tipps und Tricks f\u00fcr einen gepflegten Garten. Jetzt entdecken und die besten Tipps f\u00fcr Ordnung im Garten erfahren!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist die Marke f\u00fcr Ordnung im Garten. Wir bieten Ihnen hochwertige Gartenger\u00e4te und Zubeh\u00f6r, die Ihnen die Arbeit im Garten erleichtern.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Ordnung im Garten",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Ordnung im Garten Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Ordnung im Garten Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }

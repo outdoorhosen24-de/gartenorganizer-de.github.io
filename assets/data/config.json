@@ -51,12 +51,15 @@
             "title": "Ordnung im Garten: Tipps für einen schönen Garten",
             "metaDescription": "Ordnung im Garten - alles für die perfekte Gartenordnung. Pflanzen, Gartengeräte und mehr für einen gepflegten Garten.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Ordnung im Garten: Tipps und Tricks",
-                    "text": "Ordnung im Garten\n\nEin schöner Garten ist nicht nur ein Ort der Erholung, sondern auch ein Ort der Ordnung. Damit der Garten ordentlich und aufgeräumt aussieht, muss man einige Regeln beachten.\n\nZunächst einmal sollte man darauf achten, dass alle Pflanzen ihren Platz haben. Jede Pflanze braucht einen bestimmten Abstand zu anderen Pflanzen, damit sie sich gut entwickeln kann. Außerdem sollte man darauf achten, dass die Pflanzen nicht zu dicht aneinander stehen, damit sie genügend Licht und Luft bekommen.\n\nAuch die Bäume und Sträucher sollten regelmäßig geschnitten werden, damit sie nicht zu viel Platz einnehmen und die anderen Pflanzen nicht verdrängen.\n\nWenn man einen Garten hat, sollte man auch darauf achten, dass die Wege sauber und frei von Unkraut sind. Damit der Garten ordentlich aussieht, muss man also regelmäßig Unkraut jäten und die Wege fegen.\n\nEin weiterer wichtiger Aspekt der Ordnung im Garten ist die Müllentsorgung. Damit der Garten sauber bleibt, sollte man den Müll regelmäßig in den Mülleimer werfen und nicht einfach irgendwo hinwerfen.\n\nWenn man sich an diese Regeln hält, wird der Garten ordentlich und aufgeräumt aussehen und man kann sich dort wirklich erholen."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Ordnung im Garten: Tipps und Tricks",
+                        "text": "Ordnung im Garten\n\nEin schöner Garten ist nicht nur ein Ort der Erholung, sondern auch ein Ort der Ordnung. Damit der Garten ordentlich und aufgeräumt aussieht, muss man einige Regeln beachten.\n\nZunächst einmal sollte man darauf achten, dass alle Pflanzen ihren Platz haben. Jede Pflanze braucht einen bestimmten Abstand zu anderen Pflanzen, damit sie sich gut entwickeln kann. Außerdem sollte man darauf achten, dass die Pflanzen nicht zu dicht aneinander stehen, damit sie genügend Licht und Luft bekommen.\n\nAuch die Bäume und Sträucher sollten regelmäßig geschnitten werden, damit sie nicht zu viel Platz einnehmen und die anderen Pflanzen nicht verdrängen.\n\nWenn man einen Garten hat, sollte man auch darauf achten, dass die Wege sauber und frei von Unkraut sind. Damit der Garten ordentlich aussieht, muss man also regelmäßig Unkraut jäten und die Wege fegen.\n\nEin weiterer wichtiger Aspekt der Ordnung im Garten ist die Müllentsorgung. Damit der Garten sauber bleibt, sollte man den Müll regelmäßig in den Mülleimer werfen und nicht einfach irgendwo hinwerfen.\n\nWenn man sich an diese Regeln hält, wird der Garten ordentlich und aufgeräumt aussehen und man kann sich dort wirklich erholen."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Ordnung im Garten Shop",

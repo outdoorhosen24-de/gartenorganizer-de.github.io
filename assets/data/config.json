@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "gartenorganizer.de",
     "hostname": "https://www.gartenorganizer.de/",
     "email": "gartenorganizer.de@surrealnetworks.io",
     "organization": "gartenorganizer.de",
     "logoText": "Gartenorganizer.de",
     "title": "Ordnung im Garten",
-    "subline": "Der Online Shop für Ordnung im Garten",
+    "subline": "Unser Shop ist ein guter Start für einen geordneten Garten",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Ordnung im Garten",
-        "featureText": "Ordnung im Garten ist ein kleiner, aber feiner Laden, der sich auf die Bedürfnisse von Gartenbesitzern konzentriert. Hier finden Sie alles, was Sie für einen gepflegten und ordentlichen Garten benötigen. Vom Rasenmäher über die Gartenschere bis hin zur Gartenpumpe - Ordnung im Garten hat alles, was Sie brauchen.",
+        "featureText": "Sie möchten Ordnung und Struktur in Ihrem Garten schaffen? Wir helfen Ihnen dabei! Wir bieten Ihnen viele durchdachte Produkte, die Struktur schaffen und Ordnung im Garten zum Teil automatisieren. Zu unserem Sortiment gehören Gartenschränke, Kaminholzregale, Auflagenboxen, Mülltonnenboxen und weitere Ordnungssysteme für Ihren Garten. Dabei setzen wir auf Marken wie Duramax, Gardena, Wolfcraft und vielen mehr. ",
         "index": {
-            "title": "Ordnung im Garten: Tipps für einen schönen Garten",
-            "metaDescription": "Ordnung im Garten - alles für die perfekte Gartenordnung. Pflanzen, Gartengeräte und mehr für einen gepflegten Garten.",
+            "title": "Ordnung im Garten: Ordnungssysteme für mehr Struktur",
+            "metaDescription": "Schaffen Sie Ordnung im Garten | Produkte wie Gartenschränke & Boxen für Mülltonnen, Fahrräder, Kaminholz, Auflagen uvm. helfen Ihnen dabei | Bei uns erhältlich",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Ordnung im Garten Shop",
-            "metaDescription": "Ordnung im Garten - Dieser Shop hilft Ihnen, Ihren Garten aufzuräumen und zu organisieren. Wir bieten Ihnen alles, was Sie brauchen, um Ihren Garten in Ordnung zu bringen.",
+            "title": "Ordnung im Garten: Der Shop für Ordnungssysteme",
+            "metaDescription": "Bequem online kaufen | Bei uns im Shop: Kaminholzregale, Mülltonnenboxen, Auflagenboxen, Gartenschränke uvm. | Qualitätsprodukte zum günstigen Preis.",
             "robots": "index, follow"
         },
         "hersteller": {
             "title": "Ordnung im Garten: Die besten Hersteller",
-            "metaDescription": "Ordnung im Garten - manufacturer. Wir bieten Ihnen die besten Produkte für Ordnung im Garten. Schnelle Lieferung und top Qualität!",
+            "metaDescription": "Eine Auflistung all unserer Hersteller für Ordnungssyteme auf einen Blick | Hersteller wie: Duramax, Gardena, Wolfcraft, Lifetime uvm. | Mehr Ordnung im Garten!",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Ordnung im Garten",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Ordnung im Garten leicht gemacht! $KATEGORIE für die ganze Familie. Jetzt auf Amazon.de bestellen.",
+        "defaultTitle": "$PRODUKT [günstig kaufen]",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER sorgt für Ordnung und Struktur in Ihrem Garten. Finden Sie weitere hilfreiche Produkte zum Thema $KATEGORIE in unserem Shop!",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Ordnung im Garten",
-        "defaultMetaDescription": "$KATEGORIE: Ordnung im Garten - Tipps und Tricks für einen gepflegten Garten. Jetzt entdecken und die besten Tipps für Ordnung im Garten erfahren!",
+        "defaultTitle": "$KATEGORIE: Mehr Ordnung im Garten",
+        "defaultMetaDescription": "Die Kategorie $KATEGORIE umfasst eine Zusammenstellung vieler hilfreicher Produkte, wenn es um Ordnung im Garten geht! | Überzeugen Sie sich von unserem Angebot",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist die Marke für Ordnung im Garten. Wir bieten Ihnen hochwertige Gartengeräte und Zubehör, die Ihnen die Arbeit im Garten erleichtern.",
+        "defaultTitle": "$HERSTELLER: Ordnung im Garten",
+        "defaultMetaDescription": "$HERSTELLER ist ein Top Hersteller! | Produkte von $HERSTELLER überzeugen durch Qualität, Wetterbeständigkeit und Langlebigkeit | Bei uns im Shop zum Bestpreis!",
         "defaultRobots": "index, follow",
         "brands": [
             {

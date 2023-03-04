@@ -2,14 +2,14 @@
     {
         "key": "gartenschränke",
         "name": "Gartenschränke",
-        "slug": "gartenschranke",
+        "slug": "gartenschraenke",
         "productCategory": "Gartenschränke",
         "subCategories": []
     },
     {
         "key": "mülltonnenboxen",
         "name": "Mülltonnenboxen",
-        "slug": "mulltonnenboxen",
+        "slug": "muelltonnenboxen",
         "productCategory": "Mülltonnenboxen",
         "subCategories": []
     },
@@ -44,7 +44,7 @@
     {
         "key": "weitere ordnungssysteme für den garten",
         "name": "Weitere Ordnungssysteme für den Garten",
-        "slug": "weitere-ordnungssysteme-fur-den-garten",
+        "slug": "weitere-ordnungssysteme-fuer-den-garten",
         "productCategory": "Weitere Ordnungssysteme für den Garten",
         "subCategories": []
     }

@@ -6,7 +6,7 @@
   "organization": "gartenorganizer.de",
   "logoText": "Gartenorganizer.de",
   "title": "Ordnung im Garten",
-  "subline": "Unser Shop ist ein guter Start f\u00fcr einen geordneten Garten",
+  "subline": "Unser Shop ist ein guter Start für einen geordneten Garten",
   "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
   "imageFolder": "/assets/images/images/",
   "productUrl": "/produkt/",
@@ -29,10 +29,10 @@
   ],
   "featuredCategories": [
     "Auflagenboxen",
-    "Weitere Ordnungssysteme f\u00fcr den Garten",
+    "Weitere Ordnungssysteme für den Garten",
     "Kaminholzregale",
     "Universalboxen",
-    "Gartenschr\u00e4nke",
+    "Gartenschränke",
     "Universalboxen"
   ],
   "socialMediaAccounts": [],
@@ -46,79 +46,112 @@
   "seo": {
     "htmlLang": "de",
     "mainKeyword": "Ordnung im Garten",
-    "featureText": "Sie m\u00f6chten Ordnung und Struktur in Ihrem Garten schaffen? Wir helfen Ihnen dabei! Wir bieten Ihnen viele durchdachte Produkte, die Struktur schaffen und Ordnung im Garten zum Teil automatisieren. Zu unserem Sortiment geh\u00f6ren Gartenschr\u00e4nke, Kaminholzregale, Auflagenboxen, M\u00fclltonnenboxen und weitere Ordnungssysteme f\u00fcr Ihren Garten. Dabei setzen wir auf Marken wie Duramax, Gardena, Wolfcraft und vielen mehr. ",
+    "featureText": "Sie möchten Ordnung und Struktur in Ihrem Garten schaffen? Wir helfen Ihnen dabei! Wir bieten Ihnen viele durchdachte Produkte, die Struktur schaffen und Ordnung im Garten zum Teil automatisieren. Zu unserem Sortiment gehören Gartenschränke, Kaminholzregale, Auflagenboxen, Mülltonnenboxen und weitere Ordnungssysteme für Ihren Garten. Dabei setzen wir auf Marken wie Duramax, Gardena, Wolfcraft und vielen mehr. ",
     "index": {
-      "title": "Ordnung im Garten: Ordnungssysteme f\u00fcr mehr Struktur",
-      "metaDescription": "Schaffen Sie Ordnung im Garten | Produkte wie Gartenschr\u00e4nke & Boxen f\u00fcr M\u00fclltonnen, Fahrr\u00e4der, Kaminholz, Auflagen uvm. helfen Ihnen dabei | Bei uns erh\u00e4ltlich",
+      "title": "Ordnung im Garten: Ordnungssysteme für mehr Struktur",
+      "metaDescription": "Schaffen Sie Ordnung im Garten | Produkte wie Gartenschränke & Boxen für Mülltonnen, Fahrräder, Kaminholz, Auflagen uvm. helfen Ihnen dabei | Bei uns erhältlich",
       "robots": "index, follow",
       "seotext": {
         "published": true,
         "content": [
           {
             "title": "Ordnung im Garten mit Gartenorganizer.de",
-            "text": "Herzlich willkommen bei Gartenorganizer.de, Ihrem Online-Shop f\u00fcr alles rund um die Ordnung im Garten. Unser Ziel ist es, Ihnen dabei zu helfen, Ihren Au\u00dfenbereich aufger\u00e4umt und stilvoll zu gestalten. Ob Gartenschr\u00e4nke, M\u00fclltonnenboxen, Universalboxen, Fahrradboxen, Kaminholzregale, Auflagenboxen oder weitere Ordnungssysteme - bei uns finden Sie alles, was Sie f\u00fcr eine aufger\u00e4umte und praktische Gartenlandschaft ben\u00f6tigen. St\u00f6bern Sie durch unser umfangreiches Sortiment und entdecken Sie die Vielfalt an praktischen Ordnungsl\u00f6sungen f\u00fcr Ihren Garten. Wir freuen uns auf Ihre Bestellung!"
+            "text": "Herzlich willkommen bei Gartenorganizer.de, Ihrem Online-Shop für alles rund um die Ordnung im Garten. Unser Ziel ist es, Ihnen dabei zu helfen, Ihren Außenbereich aufgeräumt und stilvoll zu gestalten. Ob Gartenschränke, Mülltonnenboxen, Universalboxen, Fahrradboxen, Kaminholzregale, Auflagenboxen oder weitere Ordnungssysteme - bei uns finden Sie alles, was Sie für eine aufgeräumte und praktische Gartenlandschaft benötigen. Stöbern Sie durch unser umfangreiches Sortiment und entdecken Sie die Vielfalt an praktischen Ordnungslösungen für Ihren Garten. Wir freuen uns auf Ihre Bestellung!"
           },
           {
-            "title": "Gartenschr\u00e4nke",
-            "text": "<a href=\"/kategorie/gartenschraenke/\" title=\"Gartenschr\u00e4nke\">Gartenschr\u00e4nke</a> bieten eine praktische L\u00f6sung f\u00fcr die Aufbewahrung von Gartenger\u00e4ten, M\u00f6beln und anderen Gegenst\u00e4nden im Freien. Unsere hochwertigen Gartenschr\u00e4nke sind aus robustem Material gefertigt und bieten Schutz vor Witterungseinfl\u00fcssen. Ob Sie einen kleinen oder gro\u00dfen Gartenschrank ben\u00f6tigen, bei uns finden Sie garantiert das passende Modell f\u00fcr Ihre Bed\u00fcrfnisse. St\u00f6bern Sie jetzt in unserem Angebot und entdecken Sie die Vielfalt an Gartenschr\u00e4nken."
+            "title": "Gartenschränke",
+            "text": "<a href=\"/kategorie/gartenschraenke/\" title=\"Gartenschränke\">Gartenschränke</a> bieten eine praktische Lösung für die Aufbewahrung von Gartengeräten, Möbeln und anderen Gegenständen im Freien. Unsere hochwertigen Gartenschränke sind aus robustem Material gefertigt und bieten Schutz vor Witterungseinflüssen. Ob Sie einen kleinen oder großen Gartenschrank benötigen, bei uns finden Sie garantiert das passende Modell für Ihre Bedürfnisse. Stöbern Sie jetzt in unserem Angebot und entdecken Sie die Vielfalt an Gartenschränken."
           },
           {
-            "title": "M\u00fclltonnenboxen",
-            "text": "<a href=\"/kategorie/muelltonnenboxen/\" title=\"M\u00fclltonnenboxen\">M\u00fclltonnenboxen</a> sind eine elegante und praktische L\u00f6sung, um Ihre M\u00fclltonnen vor neugierigen Blicken und Witterungseinfl\u00fcssen zu sch\u00fctzen. Unsere M\u00fclltonnenboxen sind in verschiedenen Gr\u00f6\u00dfen und Designs erh\u00e4ltlich, so dass Sie garantiert das passende Modell f\u00fcr Ihren Garten finden. Alle M\u00fclltonnenboxen sind aus robustem Material gefertigt und bieten eine lange Lebensdauer. Entdecken Sie jetzt das umfassende Angebot an M\u00fclltonnenboxen bei uns."
+            "title": "Mülltonnenboxen",
+            "text": "<a href=\"/kategorie/muelltonnenboxen/\" title=\"Mülltonnenboxen\">Mülltonnenboxen</a> sind eine elegante und praktische Lösung, um Ihre Mülltonnen vor neugierigen Blicken und Witterungseinflüssen zu schützen. Unsere Mülltonnenboxen sind in verschiedenen Größen und Designs erhältlich, so dass Sie garantiert das passende Modell für Ihren Garten finden. Alle Mülltonnenboxen sind aus robustem Material gefertigt und bieten eine lange Lebensdauer. Entdecken Sie jetzt das umfassende Angebot an Mülltonnenboxen bei uns."
           },
           {
             "title": "Universalboxen",
-            "text": "<a href=\"/kategorie/universalboxen/\" title=\"Universalboxen\">Universalboxen</a> bieten eine vielseitige L\u00f6sung f\u00fcr die Aufbewahrung von Gegenst\u00e4nden im Freien. Ob Sie Gartenger\u00e4te, M\u00f6bel oder andere Gegenst\u00e4nde verstauen m\u00f6chten, mit einer Universalbox haben Sie immer genug Platz. Unsere Universalboxen sind aus robustem Material gefertigt und bieten Schutz vor Witterungseinfl\u00fcssen. Entdecken Sie jetzt das umfassende Angebot an Universalboxen bei uns und finden Sie das passende Modell f\u00fcr Ihre Bed\u00fcrfnisse."
+            "text": "<a href=\"/kategorie/universalboxen/\" title=\"Universalboxen\">Universalboxen</a> bieten eine vielseitige Lösung für die Aufbewahrung von Gegenständen im Freien. Ob Sie Gartengeräte, Möbel oder andere Gegenstände verstauen möchten, mit einer Universalbox haben Sie immer genug Platz. Unsere Universalboxen sind aus robustem Material gefertigt und bieten Schutz vor Witterungseinflüssen. Entdecken Sie jetzt das umfassende Angebot an Universalboxen bei uns und finden Sie das passende Modell für Ihre Bedürfnisse."
           },
           {
             "title": "Fahrradboxen",
-            "text": "Fahrr\u00e4der m\u00fcssen im Freien aufbewahrt werden, um sie vor Diebstahl und Witterungseinfl\u00fcssen zu sch\u00fctzen. <a href=\"/kategorie/fahrradboxen/\" title=\"Fahrradboxen\">Fahrradboxen</a> bieten hierf\u00fcr eine praktische und stilvolle L\u00f6sung. Unsere Fahrradboxen sind robust, stabil und langlebig. Sie sch\u00fctzen Ihre Fahrr\u00e4der vor Regen, Schnee und Sonne und bieten gleichzeitig eine ordentliche Aufbewahrungsl\u00f6sung im Garten. Schauen Sie sich unsere Auswahl an Fahrradboxen an und finden Sie die perfekte L\u00f6sung f\u00fcr Ihre Bed\u00fcrfnisse."
+            "text": "Fahrräder müssen im Freien aufbewahrt werden, um sie vor Diebstahl und Witterungseinflüssen zu schützen. <a href=\"/kategorie/fahrradboxen/\" title=\"Fahrradboxen\">Fahrradboxen</a> bieten hierfür eine praktische und stilvolle Lösung. Unsere Fahrradboxen sind robust, stabil und langlebig. Sie schützen Ihre Fahrräder vor Regen, Schnee und Sonne und bieten gleichzeitig eine ordentliche Aufbewahrungslösung im Garten. Schauen Sie sich unsere Auswahl an Fahrradboxen an und finden Sie die perfekte Lösung für Ihre Bedürfnisse."
           },
           {
             "title": "Kaminholzregale",
-            "text": "Ein Kaminholzregal ist eine praktische und platzsparende L\u00f6sung, um Ihr Kaminholz ordentlich aufzubewahren. Es h\u00e4lt das Holz trocken und sch\u00fctzt es vor Feuchtigkeit und Sch\u00e4dlingen. Unsere <a href=\"/kategorie/kaminholzregale/\" title=\"Kaminholzregale\">Kaminholzregale</a> sind robust, stabil und langlebig und bieten eine stilvolle Aufbewahrungsl\u00f6sung f\u00fcr Ihr Kaminholz. Schauen Sie sich unsere Auswahl an Kaminholzregalen an und finden Sie die perfekte L\u00f6sung f\u00fcr Ihre Bed\u00fcrfnisse."
+            "text": "Ein Kaminholzregal ist eine praktische und platzsparende Lösung, um Ihr Kaminholz ordentlich aufzubewahren. Es hält das Holz trocken und schützt es vor Feuchtigkeit und Schädlingen. Unsere <a href=\"/kategorie/kaminholzregale/\" title=\"Kaminholzregale\">Kaminholzregale</a> sind robust, stabil und langlebig und bieten eine stilvolle Aufbewahrungslösung für Ihr Kaminholz. Schauen Sie sich unsere Auswahl an Kaminholzregalen an und finden Sie die perfekte Lösung für Ihre Bedürfnisse."
           },
           {
             "title": "Auflagenboxen",
-            "text": "Auflagen f\u00fcr Gartenm\u00f6bel m\u00fcssen sicher aufbewahrt werden, um sie vor Feuchtigkeit und Schmutz zu sch\u00fctzen. <a href=\"/kategorie/auflagenboxen/\" title=\"Auflagenboxen\">Auflagenboxen</a> bieten hierf\u00fcr eine praktische und stilvolle L\u00f6sung. Unsere Auflagenboxen sind robust, stabil und langlebig und bieten eine ordentliche Aufbewahrungsl\u00f6sung f\u00fcr Ihre Gartenm\u00f6belauflagen. Schauen Sie sich unsere Auswahl an Auflagenboxen an und finden Sie die perfekte L\u00f6sung f\u00fcr Ihre Bed\u00fcrfnisse."
+            "text": "Auflagen für Gartenmöbel müssen sicher aufbewahrt werden, um sie vor Feuchtigkeit und Schmutz zu schützen. <a href=\"/kategorie/auflagenboxen/\" title=\"Auflagenboxen\">Auflagenboxen</a> bieten hierfür eine praktische und stilvolle Lösung. Unsere Auflagenboxen sind robust, stabil und langlebig und bieten eine ordentliche Aufbewahrungslösung für Ihre Gartenmöbelauflagen. Schauen Sie sich unsere Auswahl an Auflagenboxen an und finden Sie die perfekte Lösung für Ihre Bedürfnisse."
           },
           {
-            "title": "Weitere Ordnungssysteme f\u00fcr den Garten",
-            "text": "Die Kategorie '<a href=\"/kategorie/weitere-ordnungssysteme-fuer-den-garten/\" title=\"Weitere Ordnungssysteme f\u00fcr den Garten\">Weitere Ordnungssysteme f\u00fcr den Garten</a>' beinhaltet alles, was Sie ben\u00f6tigen, um Ihren Garten noch ordentlicher und \u00fcbersichtlicher zu gestalten. Von praktischen Regalen bis hin zu Ablagefl\u00e4chen f\u00fcr Gartenger\u00e4te, hier finden Sie alles, was Sie f\u00fcr einen aufger\u00e4umten Garten ben\u00f6tigen. Die Produkte in dieser Kategorie sind robust, langlebig und einfach in der Handhabung. \u00dcberzeugen Sie sich selbst von unserer Auswahl an hochwertigen Ordnungssystemen f\u00fcr den Garten und bestellen Sie noch heute bei Gartenorganizer.de."
+            "title": "Weitere Ordnungssysteme für den Garten",
+            "text": "Die Kategorie '<a href=\"/kategorie/weitere-ordnungssysteme-fuer-den-garten/\" title=\"Weitere Ordnungssysteme für den Garten\">Weitere Ordnungssysteme für den Garten</a>' beinhaltet alles, was Sie benötigen, um Ihren Garten noch ordentlicher und übersichtlicher zu gestalten. Von praktischen Regalen bis hin zu Ablageflächen für Gartengeräte, hier finden Sie alles, was Sie für einen aufgeräumten Garten benötigen. Die Produkte in dieser Kategorie sind robust, langlebig und einfach in der Handhabung. Überzeugen Sie sich selbst von unserer Auswahl an hochwertigen Ordnungssystemen für den Garten und bestellen Sie noch heute bei Gartenorganizer.de."
           }
         ]
       }
     },
     "shop": {
-      "title": "Ordnung im Garten: Der Shop f\u00fcr Ordnungssysteme",
-      "metaDescription": "Bequem online kaufen | Bei uns im Shop: Kaminholzregale, M\u00fclltonnenboxen, Auflagenboxen, Gartenschr\u00e4nke uvm. | Qualit\u00e4tsprodukte zum g\u00fcnstigen Preis.",
+      "title": "Ordnung im Garten: Der Shop für Ordnungssysteme",
+      "metaDescription": "Bequem online kaufen | Bei uns im Shop: Kaminholzregale, Mülltonnenboxen, Auflagenboxen, Gartenschränke uvm. | Qualitätsprodukte zum günstigen Preis.",
       "robots": "index, follow"
     },
     "hersteller": {
       "title": "Ordnung im Garten: Die besten Hersteller",
-      "metaDescription": "Eine Auflistung all unserer Hersteller f\u00fcr Ordnungssyteme auf einen Blick | Hersteller wie: Duramax, Gardena, Wolfcraft, Lifetime uvm. | Mehr Ordnung im Garten!",
+      "metaDescription": "Eine Auflistung all unserer Hersteller für Ordnungssyteme auf einen Blick | Hersteller wie: Duramax, Gardena, Wolfcraft, Lifetime uvm. | Mehr Ordnung im Garten!",
       "robots": "index, follow"
     }
   },
   "productSeo": {
-    "defaultTitle": "$PRODUKT [g\u00fcnstig kaufen]",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER sorgt f\u00fcr Ordnung und Struktur in Ihrem Garten. Finden Sie weitere hilfreiche Produkte zum Thema $KATEGORIE in unserem Shop!",
+    "defaultTitle": "$PRODUKT [günstig kaufen]",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER sorgt für Ordnung und Struktur in Ihrem Garten. Finden Sie weitere hilfreiche Produkte zum Thema $KATEGORIE in unserem Shop!",
     "defaultRobots": "index, follow",
     "products": [
       {
         "sku": "5637909794",
         "name": "Ortovox PALA PANTS Kletterhose",
         "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
           "robots": "index, follow"
+        }
+      },
+      {
+        "sku": "5120829",
+        "seo": {
+          "texts": [
+            {
+              "title": "Duramax Fahrradbox Hellbeige - Die perfekte Aufbewahrungslösung",
+              "text": "<p class=\"justify\">Die Duramax Fahrradbox Hellbeige (SKU: 5120829) ist die ideale Aufbewahrungslösung für alle, die ihre Fahrräder sicher und geschützt unterbringen möchten. Diese hochwertige Fahrradbox ist genau das Richtige für 2-3 Fahrräder und bietet Ihnen eine praktische und zuverlässige Möglichkeit, Ihre Fahrräder vor den Elementen zu schützen.</p><p class=\"justify\">Hergestellt aus extra dickem, galvanisiertem Metall ist diese Duramax Fahrradbox besonders langlebig und praktisch wartungsfrei. Die einzigartige Farb-PVC-Beschichtung schützt das Metall vor Zersetzung, die durch längere Einwirkung von Niederschlägen entstehen kann, und verleiht zusätzliche Widerstandsfähigkeit. Mit einer großzügigen Größe von etwa B 196 x T 89 x H 133 cm außen und etwa B 175 x T 75,3 x H 128,2 cm innen bietet diese Box mehr als genug Platz für Ihre Fahrräder und weitere Gegenstände.</p><p class=\"justify\">Die Duramax Fahrradbox Hellbeige verfügt über einen leichtgängigen, aufklappbaren Deckel mit handlichem Federzugsystem, der das Verstauen von Fahrrädern mühelos macht. Zudem sind in dieser Box Vorrichtungen für Schlösser vorhanden, die einen zusätzlichen Schutz bieten und ihren praktischen und zweckdienlichen Charakter unterstreichen.</p><p class=\"justify\">Das ansprechende Design und die hellbeige Farbe der Duramax Fahrradbox Hellbeige fügen sich nahtlos in Ihren Garten oder Ihre Freizeiteinrichtung ein. Sie passt perfekt in die Kategorie Fahrradboxen und bereichert die Bereiche Garten & Freizeit sowie Ordnung im Garten Ihrer Startseite. Mit einer Gesamtbewertung von 4 Sternen und 111 Kundenrezensionen ist die Duramax Fahrradbox Hellbeige ein beliebtes und verlässliches Produkt, das Ihnen lange Freude bereiten wird.</p><p class=\"justify\">Entscheiden Sie sich noch heute für die Duramax Fahrradbox Hellbeige und profitieren Sie von der erstklassigen Qualität und Funktionalität dieses Produkts. Ihre Fahrräder und sonstigen Gegenstände waren noch nie so sicher und geschützt aufbewahrt!</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "6322317",
+        "seo": {
+          "texts": [
+            {
+              "title": "Biohort Freizeitbox 100 Quarzgrau-Metallic",
+              "text": "<p class=\"justify\">Die Biohort Freizeitbox 100 Quarzgrau-Metallic ist eine hochwertige und praktische Lösung für die Aufbewahrung von Gartenutensilien. Mit einem Volumen von ca. 195 Litern bietet sie ausreichend Platz für Ihre Gartengeräte, Sitzkissen und vieles mehr. Die Box ist aus feuerverzinktem, polyamid-einbrennlackiertem Stahlblech gefertigt und besitzt ein Innenmaß von 92 cm x 37,5 cm x 56 cm (B x T x H). Dank der robusten Materialien und dem modernen Design ist diese Universalbox nicht nur funktional, sondern auch äußerst langlebig und optisch ansprechend.</p><p class=\"justify\">Die Biohort Freizeitbox 100 ist einfach in der Handhabung: Der stabile, glatte Deckel ist mit einer Gasdruckfeder ausgestattet, die für eine komfortable Deckelöffnung sorgt und zudem ein unbeabsichtigtes Zufallen des Deckels verhindert. Für Sicherheit ist ebenfalls gesorgt, denn die Box ist mit einem matt verchromten Drehgriff-Zylinderschloss versehen, sodass Sie den Inhalt zuverlässig vor unbefugtem Zugriff schützen können.</p><p class=\"justify\">Ein weiteres Plus der Biohort Freizeitbox 100 ist ihre Regenwasserdichtigkeit. Die Box verfügt über eine nicht sichtbare Durchlüftung, die eine optimale Luftzirkulation gewährleistet. So bleiben Ihre Gartenutensilien stets trocken und gut belüftet. Die Reinigung der Box ist ebenfalls unkompliziert, dank ihrer glatten Oberfläche und der einfachen Konstruktion.</p><p class=\"justify\">Der Aufbau der Biohort Freizeitbox 100 Quarzgrau-Metallic gestaltet sich mühelos, da eine Foto-Aufbauanleitung im Lieferumfang enthalten ist. Ebenso ist ein Reserveschlüssel im Lieferumfang inbegriffen, damit Sie jederzeit Zugang zu Ihren Gartenutensilien haben. Zusammenfassend ist die Biohort Freizeitbox 100 in Quarzgrau-Metallic die ideale Lösung für alle, die auf der Suche nach einer stilvollen und funktionalen Aufbewahrungsmöglichkeit für den Gartenbereich sind.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "9658543",
+        "seo": {
+          "texts": [
+            {
+              "title": "Biohort Terrassenschrank Romeo Gr. M Quarzgrau HxBxT: 140 cm x 132 cm x 57 cm",
+              "text": "<p class=\"justify\">Der Biohort Terrassenschrank Romeo Größe M in Quarzgrau ist die ideale Lösung für alle, die viel Stauraum für ihre Gartenutensilien benötigen, ohne dabei auf Stil und Funktionalität verzichten zu wollen. Mit Maßen von 140 cm x 132 cm x 57 cm (HxBxT) bietet dieser Gartenschrank in der Farbe Quarzgrau ausreichend Platz für Werkzeuge, Gartenzubehör und vieles mehr.</p><p class=\"justify\">Dieser Gartenschrank der Marke Biohort zeichnet sich durch hohe Qualität und Langlebigkeit aus. Die Gasdruckfedern ermöglichen ein sanftes Schließen der Türen, während die individuelle Regalausstattung für Ordnung und Übersicht sorgt. Die attraktive Gestaltung fügt sich harmonisch in den Außenbereich ein, sodass der Terrassenschrank einen echten Mehrwert für Balkon oder Terrasse darstellt.</p><p class=\"justify\">Dank der hochwertigen Materialien und Verarbeitungsqualität ist der Biohort Terrassenschrank Romeo Gr. M Quarzgrau sowohl wetterbeständig als auch pflegeleicht. Das bedeutet, dass der Schrank problemlos draußen stehen kann und nur minimaler Reinigungs- und Wartungsaufwand anfällt.</p><p class=\"justify\">Der Biohort Terrassenschrank Romeo ist außerdem in verschiedenen Größen und Farben erhältlich, um sich perfekt an die individuellen Bedürfnisse und den vorhandenen Raum anzupassen. Mit einer Bewertung von 5 Sternen aus 412 Kundenrezensionen können Sie sicher sein, dass dieser Gartenschrank eine hochwertige und langlebige Ergänzung für Ihre Balkon- oder Terrassengestaltung darstellt.</p><p class=\"justify\">Zögern Sie nicht, Ihr Zuhause im Freien mit diesem Biohort Terrassenschrank aufzuwerten, der Stil, Funktionalität und Stauraum vereint, um einen optimalen Nutzungskomfort zu gewährleisten. Entdecken Sie die Vorteile dieses Gartenschranks und schaffen Sie Raum für Ordnung in Ihrem Außenbereich!</p>"
+            }
+          ]
         }
       }
     ]
   },
   "categorySeo": {
     "defaultTitle": "$KATEGORIE: Mehr Ordnung im Garten",
-    "defaultMetaDescription": "Die Kategorie $KATEGORIE umfasst eine Zusammenstellung vieler hilfreicher Produkte, wenn es um Ordnung im Garten geht! | \u00dcberzeugen Sie sich von unserem Angebot",
+    "defaultMetaDescription": "Die Kategorie $KATEGORIE umfasst eine Zusammenstellung vieler hilfreicher Produkte, wenn es um Ordnung im Garten geht! | Überzeugen Sie sich von unserem Angebot",
     "defaultRobots": "index, follow",
     "categories": [
       {
@@ -126,8 +159,8 @@
         "slug": "sporthosen",
         "name": "Sporthosen",
         "seo": {
-          "title": "Sporthosen g\u00fcnstig kaufen",
-          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "title": "Sporthosen günstig kaufen",
+          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
           "robots": "index, follow",
           "texts": [
             {
@@ -145,15 +178,15 @@
   },
   "brandSeo": {
     "defaultTitle": "$HERSTELLER: Ordnung im Garten",
-    "defaultMetaDescription": "$HERSTELLER ist ein Top Hersteller! | Produkte von $HERSTELLER \u00fcberzeugen durch Qualit\u00e4t, Wetterbest\u00e4ndigkeit und Langlebigkeit | Bei uns im Shop zum Bestpreis!",
+    "defaultMetaDescription": "$HERSTELLER ist ein Top Hersteller! | Produkte von $HERSTELLER überzeugen durch Qualität, Wetterbeständigkeit und Langlebigkeit | Bei uns im Shop zum Bestpreis!",
     "defaultRobots": "index, follow",
     "brands": [
       {
         "key": "palm",
         "name": "Palm",
         "seo": {
-          "title": "Produkte von Palm g\u00fcnstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "title": "Produkte von Palm günstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
           "robots": "index, follow"
         }
       }
